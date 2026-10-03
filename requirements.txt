@@ -1,0 +1,5 @@
+arize-phoenix
+weaviate-client
+sentence-transformers
+pypdf
+pytest
